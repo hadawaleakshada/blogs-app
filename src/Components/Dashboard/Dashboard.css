@@ -1,0 +1,75 @@
+.body{
+    background-color:lightgray;
+    height: 100vh;
+    margin: 0;
+}
+.navsection{
+    background-color: navy;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding:15px;
+
+    font-weight: 500;
+}
+.leftnav{
+    padding-left: 15px;
+    font-size: 20px;
+}
+.rightnav{
+    padding-right: 18px;
+    font-size: 15px;
+}
+.login{
+    padding-right: 10px;
+}
+.section{
+    width: 70%;
+    margin: auto;
+    background-color:rgb(206, 201, 201);
+    margin-top: 30px;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgb(124, 120, 120);
+}
+.buttons{
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+    margin-bottom: 30px;
+    
+    
+}
+.b2{
+    margin-left: 15px;
+    background-color: navy;
+    color: white;
+    padding:10px;
+    border-radius: 5px;
+    border: none;
+    
+}
+.b1{
+    background-color: navy;
+    color: white;
+    padding:10px;
+    border-radius: 5px;
+    border: none;
+
+}
+.section1{
+    font-size:28px;
+    font-weight:640;
+}
+.section2{
+    font-size:13px;
+    color: rgb(34, 33, 33);
+    margin-top: 5px;
+    font-weight: 500;
+}
+.h1{
+    border-color: gray;
+    
+
+}

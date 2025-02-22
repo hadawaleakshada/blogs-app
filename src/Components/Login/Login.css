@@ -1,0 +1,71 @@
+.body{
+    background-color:lightgray;
+    height: 100vh;
+    margin: 0;
+}
+.navsection{
+    background-color: navy;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding:15px;
+
+    font-weight: 500;
+}
+.leftnav{
+    padding-left: 15px;
+    font-size: 20px;
+}
+.rightnav{
+    padding-right: 18px;
+    font-size: 15px;
+}
+.login{
+    padding-right: 10px;
+}
+.section{
+    width:50%;
+    margin: auto;
+    background-color: rgb(224, 220, 220);
+    margin-top:45px;
+}
+.section10{
+    font-size: 40px;
+    font-weight:640;
+}
+.section11{
+    font-size: 13px;
+    color: rgb(22, 21, 21);
+    margin-top:5px;
+}
+.hr{
+    border-color: rgb(43, 41, 41);
+}
+.header{
+    text-align: center;
+    color: navy;
+    font-size: 30px;
+    font-weight: 650;
+}
+.inputfield{
+    width:95%;
+    border-radius: 5px;
+    border: none;
+    padding: 8px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+.btn{
+    color: white;
+    background-color: navy;
+    padding:15px;
+    text-decoration: underline;
+    border: none;
+    border-radius: 5px;
+    width:100%;
+    margin-top:20px;
+    margin-bottom: 80px;
+    
+}
+
+
